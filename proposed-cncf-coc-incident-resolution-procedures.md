@@ -1,3 +1,5 @@
+**PROPOSED DRAFT: This proposed working draft is under review and development by the [Code of Conduct Working Group](https://github.com/cncf/wg-coc).  It is not a final document.  If you would like to propose changes to this document, please do so by opening a pull request, opening an issue, or posting a comment.  The first version of this proposed draft was contributed by the [Interim CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) and is based on the [Interim CNCF Code of Conduct Incident Procedures](https://www.cncf.io/conduct/procedures/).**
+
 # CNCF Code of Conduct - Incident Resolution Procedures
 
 ## Purpose and scope
@@ -43,11 +45,11 @@ You may report a potential violation of the [CNCF Code of Conduct](https://githu
 
 ### Submit in writing
 
-To report a violation in writing, please email [conduct@cncf.io](mailto:conduct@cncf.io),  which goes to all primary (not alternate) members of the [CNCF Code of Conduct Committee](https://docs.google.com/document/d/1eM63Ier8_H9wIaYnZDDDm-6Edxvy63eqwe1amHA9FMM/edit?usp=sharing) (CoC Committee). If you do not want your report to be received by all members of the CoC Committee, either because you want to submit a report anonymously or because one of the CoC Committee members has a conflict of interest, you may send your report directly to any individual member of the CoC Committee.
+To report a violation in writing, please email [conduct@cncf.io](mailto:conduct@cncf.io),  which goes to all primary (not alternate) members of the CNCF Code of Conduct Committee (CoC Committee). If you do not want your report to be received by all members of the CoC Committee, either because you want to submit a report anonymously or because one of the CoC Committee members has a conflict of interest, you may send your report directly to any individual member of the CoC Committee.
 
 ### Submit in spoken conversation
 
-If you prefer to report the violation in a spoken conversation, you may request a telephone conversation or virtual meeting with a CoC Committee member. If the incident occurs at an event, you may report the incident in person either to a member of the Linux Foundation Events Team or a member of the [CNCF CoC Committee](http://www.cncf.io/conduct/committee).
+If you prefer to report the violation in a spoken conversation, you may request a telephone conversation or virtual meeting with a CoC Committee member. If the incident occurs at an event, you may report the incident in person either to a member of the Linux Foundation Events Team or a member of the CNCF CoC Committee.
 
 ### How to report anonymously
 
@@ -70,7 +72,7 @@ When reporting a potential Code of Conduct violation, please include the followi
 
 ### Confirmation of Jurisdiction
 
-After a report is submitted, the [CNCF CoC Committee](http://www.cncf.io/conduct/committee) will confirm who has jurisdiction over the incident under the [Jurisdiction and Escalation Policy](http://www.cncf.io/conduct/jurisdiction). If the CoC Committee does not have jurisdiction, it will transfer the incident to the applicable project or escalate the incident to the Linux Foundation. Reporters will be notified if this occurs unless they reported anonymously and did not provide their contact information. If the [CNCF CoC Committee](http://www.cncf.io/conduct/committee) does have jurisdiction and is not required to escalate it, the committee will proceed to investigate and resolve the incident.
+After a report is submitted, the CNCF CoC Committee will confirm who has jurisdiction over the incident under the Jurisdiction and Escalation Policy. If the CoC Committee does not have jurisdiction, it will transfer the incident to the applicable project or escalate the incident to the Linux Foundation. Reporters will be notified if this occurs unless they reported anonymously and did not provide their contact information. If the CNCF CoC Committee does have jurisdiction and is not required to escalate it, the committee will proceed to investigate and resolve the incident.
 
 ### Who will have access to reports
 
@@ -96,7 +98,7 @@ Although the CoC Committee will not take any permanent actions until the CoC Com
 
 ### Mediation and Resolution by Agreement
 
-If the accused person and the parties potentially harmed in an incident communicate to the CoC Committee that they would like to resolve the incident through restorative conversation (see “[Restorative Justice](#restorative-justice)” below), mediation, or mutual agreement, the CoC Committee will wait until the parties have attempted to do so before making any final decisions regarding resolution of the incident. If all involved parties consent, the CoC Committee, other community members, or an external professional mediator may help facilitate the discussion. If the involved parties agree on an outcome for resolving the incident, and the CoC Committee will review the outcome to (a) determine if it is adequate or if any further actions need to be taken to protect the health and safety of the community and (b) support the involved parties with implementation and accountability.
+If the accused person and the parties potentially harmed in an incident communicate to the CoC Committee that they would like to resolve the incident through restorative conversation (see “Restorative Justice" below), mediation, or mutual agreement, the CoC Committee will wait until the parties have attempted to do so before making any final decisions regarding resolution of the incident. If all involved parties consent, the CoC Committee, other community members, or an external professional mediator may help facilitate the discussion. If the involved parties agree on an outcome for resolving the incident, and the CoC Committee will review the outcome to (a) determine if it is adequate or if any further actions need to be taken to protect the health and safety of the community and (b) support the involved parties with implementation and accountability.
 
 ### Potential Remedies
 
@@ -166,11 +168,11 @@ An incident is considered “resolved” when the CoC Committee has completed it
 
 Project-level Code of Conduct responders, the CNCF CoC Committee, and The Linux Foundation or CNCF staff may share information with each other on an as-needed basis about reported incidents and their resolution for the limited purposes of:
 
--   Ensuring that the incident is resolved by the appropriate body with jurisdiction as described in the [Jurisdiction and Escalation Policy](http://www.cncf.io/conduct/jurisdiction),
+-   Ensuring that the incident is resolved by the appropriate body with jurisdiction as described in the Jurisdiction and Escalation Policy,
     
 -   Investigating and resolving the reported incident,
     
--   Maintaining a central repository of records and confirming whether an accused person has prior violations that were resolved by a different incident response team, as described in the [Jurisdiction and Escalation Policy](http://www.cncf.io/conduct/jurisdiction),
+-   Maintaining a central repository of records and confirming whether an accused person has prior violations that were resolved by a different incident response team, as described in the Jurisdiction and Escalation Policy,
     
 -   Implementing protective measures and protecting community members from harm,
     
@@ -178,7 +180,7 @@ Project-level Code of Conduct responders, the CNCF CoC Committee, and The Linux 
 
 ## Confidentiality Policy
 
-When the [CNCF CoC Committee](http://www.cncf.io/conduct/committee) handles incident response, only members of the CNCF CoC Committee without hard conflicts of interest (see our Conflicts of Interest policy below) will have access to confidential information pertaining to the incident, including the identities of the reporters. The CNCF CoC Committee will not disclose the identities or confidential information provided by reporters or persons who were targeted or potentially harmed without their permission, except to a limited number of people on an as-needed basis for investigating and resolving the incident and protecting community members from harm. For example, the CNCF CoC Committee might need to disclose certain information about the incident to LF Events Staff in order to arrange for onsite support for a target of harassment, or to an external professional mediator or investigator who is engaged to assist with resolution of the incident. Confidential information about incidents will only be shared with individuals who are obligated to similarly maintain the confidentiality of such information.
+When the CNCF CoC Committee handles incident response, only members of the CNCF CoC Committee without hard conflicts of interest (see our Conflicts of Interest policy below) will have access to confidential information pertaining to the incident, including the identities of the reporters. The CNCF CoC Committee will not disclose the identities or confidential information provided by reporters or persons who were targeted or potentially harmed without their permission, except to a limited number of people on an as-needed basis for investigating and resolving the incident and protecting community members from harm. For example, the CNCF CoC Committee might need to disclose certain information about the incident to LF Events Staff in order to arrange for onsite support for a target of harassment, or to an external professional mediator or investigator who is engaged to assist with resolution of the incident. Confidential information about incidents will only be shared with individuals who are obligated to similarly maintain the confidentiality of such information.
 
 In some cases, in order to perform a fair and thorough investigation of a reported incident, it may be necessary to question the accused person about the incident. Although the CNCF CoC Committee will not disclose to the accused person who reported the incident or what witnesses have provided information, if only one person or a very small number of people were involved in or witnessed the incident, the accused person may be able to guess their identities.
 
