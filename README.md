@@ -1,2 +1,2 @@
-# wg-cocc
-WG Code of Conduct Committee Bootstrap
+# wg-coc
+Working Group - Code of Conduct Bootstrap
