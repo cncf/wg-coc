@@ -22,11 +22,11 @@ The Working Group intends to complete its intended deliverables in the following
 
 Any CNCF community member may submit a proposal or suggest changes to an existing proposal by opening a pull request, opening an issue, or posting comments.  
 
-If you prefer to submit proposals or feedback anonymously, you may do so via this feedback submission form.  You are also welcome to share your feedback and suggestions directly with any of the Working Group Co-Chairs/Approvers or Reviewers.
+If you prefer to submit proposals or feedback anonymously, you may do so via this [feedback submission form](https://forms.gle/pUMpHde799UkRGgC8).  You are also welcome to share your feedback and suggestions directly with any of the Working Group Co-Chairs/Approvers or Reviewers.
 
-You can also join the CNCF slack channel cncf-coc-wg.
+You can also join the CNCF slack channel [#cncf-coc-wg](https://app.slack.com/client/T08PSQ7BQ/C041LMZP31R).
 
-To sign up for the Working Group mailing list, please click the “Apply For Membership In This Group” button.
+To sign up for the [Working Group mailing list](https://lists.cncf.io/g/cncf-coc-wg/), please click the “Apply For Membership In This Group” button.
 
 ## Working Group Leadership
 
