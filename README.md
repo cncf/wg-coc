@@ -45,7 +45,18 @@ The Working Group has 3 Co-Chairs and primary Approvers: one from the Governing 
 
 The following individuals are Reviewers:
 
-[List to be added]
+-  Alolita Sharma
+-  Amye Scavarda Perrin
+-  Brandon Lum
+-  Carolyn Van Slyck
+-  Chris Aniszczyk
+-  Danielle Lancashire
+-  Dave Zolotusky
+-  Emily Fox
+-  Erin Boyd
+-  Jeffrey Sica
+-  Joanna Lee
+-  Ricardo Aravena
 
 You can become a Reviewer if you qualify under the eligibility criteria described in [this post](https://www.cncf.io/blog/2022/06/23/new-structure-for-cncf-code-of-conduct-update-project/) or all 3 Co-Chairs approve adding you as a Reviewer.  If you would like to become a Reviewer, please open a pull request to add yourself to the Reviewer list above.
 
