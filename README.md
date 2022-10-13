@@ -4,7 +4,7 @@
 
 The CNCF Code of Conduct Working Group (“CoC-WG” or “Working Group”) is a working group whose intended output is an updated CoC incident resolution structure and updated set of policy documents including:
 -  **[Updated CNCF Code of Conduct](https://github.com/cncf/wg-coc/blob/main/proposed-new-cncf-code-of-conduct.md):** This document will contain improvements to the existing CNCF Code of Conduct and will eventually replace the existing CNCF Code of Conduct.
--  **[CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/proposed-cncf-coc-committee-description.md):** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
+-  **[CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md):** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
 -  **[Incident Resolution Procedures](https://github.com/cncf/wg-coc/blob/main/proposed-cncf-coc-incident-resolution-procedures.md):** This document will explain how to submit a report, policies regarding information sharing and confidentiality, how conflicts of interest are dealt with, and other procedures related to review, investigation, and resolution of an incident.
 -  **Jurisdiction and Escalation Policy:**  This document will explain how to determine whether an incident falls under the jurisdiction of LF Events, the CNCF CoC Committee, or a project-level CoC Committee.
 
@@ -15,7 +15,7 @@ The Working Group will **not** review or resolve Code of Conduct complaints.  Re
 The Working Group intends to complete its intended deliverables in the following order:
 1. [Updated CNCF Code of Conduct](https://github.com/cncf/wg-coc/blob/main/proposed-new-cncf-code-of-conduct.md)
 2. [Incident Resolution Procedures](https://github.com/cncf/wg-coc/blob/main/proposed-cncf-coc-incident-resolution-procedures.md)
-3. [CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/proposed-cncf-coc-committee-description.md)
+3. [CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md)
 4. Jurisdiction & Escalation Policy
 
 ## How to Participate
