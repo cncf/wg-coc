@@ -57,6 +57,7 @@ The following individuals are Reviewers:
 -  Jeffrey Sica
 -  Joanna Lee
 -  Ricardo Aravena
+-  Tasha Drew
 
 You can become a Reviewer if you qualify under the eligibility criteria described in [this post](https://www.cncf.io/blog/2022/06/23/new-structure-for-cncf-code-of-conduct-update-project/) or all 3 Co-Chairs approve adding you as a Reviewer.  If you would like to become a Reviewer, please open a pull request to add yourself to the Reviewer list above.
 
