@@ -48,6 +48,7 @@ The following individuals are Reviewers:
 -  Alolita Sharma
 -  Amye Scavarda Perrin
 -  Brandon Lum
+-  Carla Gaggini
 -  Carolyn Van Slyck
 -  Chris Aniszczyk
 -  Danielle Lancashire
