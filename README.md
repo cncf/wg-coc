@@ -1,11 +1,11 @@
 # Code of Conduct Working Group
 
-## Purpose 
+## Purpose
 
 The CNCF Code of Conduct Working Group (“CoC-WG” or “Working Group”) is a working group whose intended output is an updated CoC incident resolution structure and updated set of policy documents including:
--  **[Updated CNCF Code of Conduct](https://github.com/cncf/wg-coc/blob/main/code-of-conduct-proposed.md):** This document will contain improvements to the existing CNCF Code of Conduct and will eventually replace the existing CNCF Code of Conduct.
--  **[CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md):** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
--  **[Incident Resolution Procedures](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md):** This document will explain how to submit a report, policies regarding information sharing and confidentiality, how conflicts of interest are dealt with, and other procedures related to review, investigation, and resolution of an incident.
+-  **[Updated CNCF Code of Conduct]:** This document will contain improvements to the existing CNCF Code of Conduct and will eventually replace the existing CNCF Code of Conduct.
+-  **[CNCF Code of Conduct Committee Description]:** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
+-  **[Incident Resolution Procedures]:** This document will explain how to submit a report, policies regarding information sharing and confidentiality, how conflicts of interest are dealt with, and other procedures related to review, investigation, and resolution of an incident.
 -  **Jurisdiction and Escalation Policy:**  This document will explain how to determine whether an incident falls under the jurisdiction of LF Events, the CNCF CoC Committee, or a project-level CoC Committee.
 
 The Working Group will **not** review or resolve Code of Conduct complaints.  Resolution of Code of Conduct incidents will continue to be handled by the [Interim CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) until a more permanent committee structure results from the output of the Working Group.
@@ -13,18 +13,18 @@ The Working Group will **not** review or resolve Code of Conduct complaints.  Re
 ## Roadmap of Priorities
 
 The Working Group intends to complete its intended deliverables in the following order:
-1. [Updated CNCF Code of Conduct](https://github.com/cncf/wg-coc/blob/main/code-of-conduct-proposed.md)
-2. [Incident Resolution Procedures](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md)
-3. [CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md)
-4. Jurisdiction & Escalation Policy
+1. [Updated CNCF Code of Conduct]
+1. [Incident Resolution Procedures]
+1. [CNCF Code of Conduct Committee Description]
+1. Jurisdiction & Escalation Policy
 
 ## How to Participate
 
-Any CNCF community member may submit a proposal or suggest changes to an existing proposal by opening a pull request, opening an issue, or posting comments.  
+Any CNCF community member may submit a proposal or suggest changes to an existing proposal by opening a pull request, opening an issue, or posting comments.
 
 If you prefer to submit proposals or feedback anonymously, you may do so via this [feedback submission form](https://forms.gle/pUMpHde799UkRGgC8).  You are also welcome to share your feedback and suggestions directly with any of the Working Group Co-Chairs/Approvers or Reviewers.
 
-You can also join the CNCF slack channel [#cncf-coc-wg](https://app.slack.com/client/T08PSQ7BQ/C041LMZP31R).
+You can also join the CNCF slack channel [#cncf-coc-wg](https://cloud-native.slack.com/archives/C041LMZP31R).
 
 To sign up for the [Working Group mailing list](https://lists.cncf.io/g/cncf-coc-wg/), please click the “Apply For Membership In This Group” button.
 
@@ -62,9 +62,9 @@ You can become a Reviewer if you qualify under the eligibility criteria describe
 
 ## How Decisions Are Made
 
-The review and approval process is structured to ensure that the Working Group is making decisions based on consensus and that there is broad buy-in on any proposal that gets merged.  
+The review and approval process is structured to ensure that the Working Group is making decisions based on consensus and that there is broad buy-in on any proposal that gets merged.
 
-Initially, at least 3 Reviewers must review and support a PR for it to advance to the Approvers, and all 3 Approvers (1 from the Governing Board, 1 from the Technical Oversight Committee, and 1 Approver who has been elected by the community) must approve in order for the pull request to be merged.  
+Initially, at least 3 Reviewers must review and support a PR for it to advance to the Approvers, and all 3 Approvers (1 from the Governing Board, 1 from the Technical Oversight Committee, and 1 Approver who has been elected by the community) must approve in order for the pull request to be merged.
 
 Additionally, updates to the Code of Conduct itself must be approved by the CNCF Technical Oversight Committee (CNCF Charter §13), and creation of the new CoC Committee must be approved by the CNCF Governing Board (CNCF Charter §5(d)(vii)).
 
@@ -76,3 +76,6 @@ For any major new proposal, the Approvers/Co-Chairs will allow a comment period 
 
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+[Updated CNCF Code of Conduct]: /code-of-conduct-proposed.md
+[CNCF Code of Conduct Committee Description]: /coc-committee-description-proposed.md
+[Incident Resolution Procedures]: /coc-incident-resolution-procedures-proposed.md
