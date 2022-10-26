@@ -13,9 +13,9 @@ The Working Group will **not** review or resolve Code of Conduct complaints.  Re
 ## Roadmap of Priorities
 
 The Working Group intends to complete its intended deliverables in the following order:
-1. [Updated CNCF Code of Conduct](https://github.com/cncf/wg-coc/blob/main/proposed-new-cncf-code-of-conduct.md)
-2. [Incident Resolution Procedures](https://github.com/cncf/wg-coc/blob/main/proposed-cncf-coc-incident-resolution-procedures.md)
-3. [CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/proposed-cncf-coc-committee-description.md)
+1. [Updated CNCF Code of Conduct](https://github.com/cncf/wg-coc/blob/main/code-of-conduct-proposed.md)
+2. [Incident Resolution Procedures](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md)
+3. [CNCF Code of Conduct Committee Description](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md)
 4. Jurisdiction & Escalation Policy
 
 ## How to Participate
