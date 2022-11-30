@@ -1,0 +1,52 @@
+# Example file: https://github.com/cncf/gitvote/blob/main/docs/config/.gitvote.yml
+default:
+  duration: 4w
+  pass_threshold: 66
+  allowed_voters:
+    users:
+      - jeefy
+      - amye
+      - caniszczyk
+
+gb: # Governing Board Representatives
+  duration: 4w
+  pass_threshold: 50
+  allowed_voters:
+    users:
+      - arun-gupta # Arun Gupta
+      - alena1108  # Alena Prokharchyk
+toc: # TOC Representatives
+  duration: 4w
+  pass_threshold: 50
+  allowed_voters:
+    users:
+      - dims       # Davanum Srinivas
+      - mattfarina # Matt Farina
+
+elected: # Elected Representatives
+  duration: 4w
+  pass_threshold: 50
+  allowed_voters:
+    users:
+      - cblecker # Christoph Blecker
+      - anvega   # Andres Vega
+
+reviewers: 
+  duration: 4w
+  pass_threshold: 20
+  allowed_voters:
+    users:
+      - alolita       # Alolita Sharma
+      - amye          # Amye Scavarda Perrin
+      - lumjjb        # Brandon Lum
+      - carlagaggini  # Carla Gaggini
+      - carolynvs     # Carolyn Van Slyck
+      - caniszczyk    # Chris Aniszczyk
+      - endocrimes    # Danielle Lancashire
+      - dzolotusky    # Dave Zolotusky
+      - thefoxatwork  # Emily Fox
+      - erinboyd      # Erin Boyd
+      - jeefy         # Jeffrey Sica
+      - joannalee333  # Joanna Lee
+      - raravena80    # Ricardo Aravena
+      - tashimi       # Tasha Drew
