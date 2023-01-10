@@ -18,6 +18,31 @@ The Working Group intends to complete its intended deliverables in the following
 1. [CNCF Code of Conduct Committee Description]
 1. Jurisdiction & Escalation Policy
 
+## Deliverables Timeline
+
+| **Deliverable**                                                                                                                                         | **1. Submit New Proposals By**                                                        | **2. Comment on Existing Proposals By** | **3. Co-Chairs Consider Comments and Make Modifications On** | **4. Comment on Co-Chair Modifications By** | **5. Co-Chairs Meet to Finalize &  Approve On** |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------|-----------------------------------------|------------------------------------------|
+| **Incident Resolution Procedures**                                                                                                                     | NA - The Interim Code of Conduct Committee contributed a proposal in October 2022 | January 11, 2023                    | January 12, 2023                                      | January 25, 2023                        | January 26, 2022                         |
+| **Updates to CNCF Code of Conduct**                                                                                                                     | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
+| **Jurisdiction & Escalation Policy**                                                                                                                    | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
+| **Interim CoC Committee Description & Charter**   <br/> *Composition <br/> *Eligibility criteria  <br/> *Election/appointment procedures  <br/> *Term lengths / limits / election cycle | March 8, 2023                                                                     | March 22, 2023                      | March 23, 2023                                        | April 5, 2023                           | April 6, 2023                            |
+
+## Contribution Review and Approval Cycle
+
+The numbered steps below correspond to the numbered columnn headers in the *Deliverables Timeline* table above.
+
+**1.**   New proposals are submitted  
+**2.**   Two-week comment period on proposals submitted  
+**3.**   Co-Chairs meet to review comments and make modifications to address comments  
+**4.**   Two-week comment period on Co-Chair modifications  
+**5.**   Co-Chairs meet to finalize and approve
+
+
+If consensus is not reached on a particular issue by the target completion/final approval date, the Co-Chairs may:  
+(a) escalate the issue to the Governing Board or Technical Oversight Committee for resolution, and/or  
+(b) try to resolve the issue through another set of modifications and another comment period, and/or  
+(c) call a working group meeting to discuss, brainstorm solutions, and try to reach consensus.
+
 ## How to Participate
 
 Any CNCF community member may submit a proposal or suggest changes to an existing proposal by opening a pull request, opening an issue, or posting comments.
