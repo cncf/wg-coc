@@ -53,7 +53,7 @@ If you prefer to report the violation in a spoken conversation, you may request 
 
 ### How to report anonymously
 
-If you desire to submit a report anonymously, please send a message directly to any individual member of our CoC Committee through the CNCF Slack and let them know you would like to submit a Code of Conduct report anonymously. If you submit your report anonymously, that member of the CC Committee will share the contents of your report with the rest of the CoC Committee, but they will not disclose your identity as the reporter to the other members of the CoC Committee (unless such disclosure is necessary to comply with applicable laws or a court order, or to protect you or someone else from imminent danger).
+If you desire to submit a report anonymously, please send a message directly to any individual member of our CoC Committee through the CNCF Slack and let them know you would like to submit a Code of Conduct report anonymously. If you submit your report anonymously, that member of the CoC Committee will share the contents of your report with the rest of the CoC Committee, but they will not disclose your identity as the reporter to the other members of the CoC Committee (unless such disclosure is necessary to comply with applicable laws or a court order, or to protect you or someone else from imminent danger).
 
 ## What information to include in your report
 
