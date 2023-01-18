@@ -11,7 +11,8 @@ These Procedures address the following topics related to resolution of potential
   - [How to report anonymously](#how-to-report-anonymously)
 - [What information to include in your report](#what-information-to-include-in-your-report)
 - [What happens after a report is submitted](#what-happens-after-a-report-is-submitted)
-  - [Confirmation of Jurisdiction](#confirmation-of-jurisdiction)
+ - [Acknowledgement of Receipt](#acknowledgement-of-receipt)
+ - [Confirmation of Jurisdiction](#confirmation-of-jurisdiction)
   - [Who will have access to reports](#who-will-have-access-to-reports)
   - [Investigation](#investigation)
   - [Notification to the Accused Person](#notification-to-the-accused-person)
@@ -70,6 +71,10 @@ When reporting a potential Code of Conduct violation, please include the followi
 
 ## What happens after a report is submitted
 
+### Acknowledgement of Receipt
+
+The Code of Conduct Committee will acknowledge receipt of your report in a timely manner, usually within a few business days.
+
 ### Confirmation of Jurisdiction
 
 After a report is submitted, the CNCF CoC Committee will confirm who has jurisdiction over the incident under the Jurisdiction and Escalation Policy. If the CoC Committee does not have jurisdiction, it will transfer the incident to the applicable project or escalate the incident to the Linux Foundation. Reporters will be notified if this occurs unless they reported anonymously and did not provide their contact information. If the CNCF CoC Committee does have jurisdiction and is not required to escalate it, the committee will proceed to investigate and resolve the incident.
@@ -88,7 +93,7 @@ If the CoC Committee determines that the Code of Conduct was violated, the CoC C
 
 ### Notification to the Accused Person
 
-During or after the investigation, the CoC Committee shall notify the accused person that an incident report has been received concerning their alleged behavior, unless the CoC Committee determines that the report is meritless or has been filed in bad faith. While the investigation is ongoing, the CoC Committee shall determine in its discretion whether, how, and when to notify the accused person, and how much information to share about the nature of the allegations, if any, taking into consideration risks of retaliation, evidence tampering or destruction, or witness tampering that might result from the notification.
+During or after the investigation, the CoC Committee shall notify the accused person that an incident report has been received concerning their alleged behavior, unless the CoC Committee determines that the report is meritless or has been filed in bad faith. While the investigation is ongoing, the CoC Committee shall determine in its discretion whether, how, and when to notify the accused person, and how much information to share about the nature of the allegations, if any, taking into consideration risks of retaliation, evidence tampering or destruction, or witness tampering that might result from the notification. Additionally, notification to the accused person shall comply with the [Confidentiality Policy](#confidentiality-policy).
 
 ## Resolution
 
@@ -162,7 +167,7 @@ If any party does not fulfill their obligations related to resolution of the inc
 
 ### Communicating the Results
 
-An incident is considered “resolved” when the CoC Committee has completed its investigation and either (a) determined what remediation actions are needed to resolve an incident (including determining that the involved parties’ agreed-upon resolution is adequate) (b) or determined that the CoC was not violated and no remediation is needed. When the incident is resolved, a member of the CoC Committee will inform the person who submitted the report. The CoC Committee will determine how much information to share with the reporter regarding the committee’s findings and what remediation steps were taken, if any, taking into consideration the privacy, confidentiality, and potential impact to the individuals involved in the incident. The CoC Committee will also determine what information, if any, is necessary to share publicly or with community and project leaders. Also see “Information Sharing” below.
+An incident is considered “resolved” when the CoC Committee has completed its investigation and either (a) determined what remediation actions are needed to resolve an incident (including determining that the involved parties’ agreed-upon resolution is adequate) (b) or determined that the CoC was not violated and no remediation is needed. When the incident is resolved, a member of the CoC Committee will inform the person who submitted the report. The CoC Committee will determine how much information to share with the reporter regarding the committee’s findings and what remediation steps were taken, if any, taking into consideration the privacy, confidentiality, and potential impact to the individuals involved in the incident. After resolution of the incident, the CoC Committee shall determine in its discretion whether, how, and when to notify the accused person. The CoC Committee shall The CoC Committee will also determine what information, if any, is necessary to share publicly or with community and project leaders. Any communication regarding the results of the investaigtion shall comply with the [Confidentiality Policy](#confidentiality-policy). Also see [Information Sharing](#information-sharing) below.
 
 ## Information Sharing
 
