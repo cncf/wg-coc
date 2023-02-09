@@ -2,6 +2,23 @@
 
 # Jurisdiction Policy for CNCF Code of Conduct Incident Resolution
 
+## Table of Contents
+
+- [Purpose and Summary](#purpose-and-summary)
+- [Jurisdiction of Project CoC Responders](#jurisdiction-of-project-coc-responders)
+  - [Transfer by Project CoC Responders](#transfer-by-project-coc-responders)
+  - [Appeal of Project Decisions](#appeal-of-project-decisions)
+- [Jurisdiction of the CNCF Code of Conduct Committee](#jurisdiction-of-the-cncf-code-of-conduct-committee)
+- [Jurisdiction of The Linux Foundation](#jurisdiction-of-the-linux-foundation)
+- [Joint Jurisdiction of the Linux Foundation and CNCF](#joint-jurisdiction-of-the-linux-foundation-and-cncf)
+- [Legal Risk Analysis](#legal-risk-analysis)
+  - [Risk Factors](#risk-factors)
+  - [Remedies Requiring Legal Consultation](#remedies-requiring-legal-consultation)
+  - [When Legal Consultation is Not Necessary](#when-legal-consultation-is-not-necessary)
+  - [How to Contact LF Legal Counsel](#how-to-contact-lf-legal-counsel)
+- [Central Recordkeeping and Notification](#central-recordkeeping-and-notification)
+- [Licensing](#licensing)
+
 
 ## Purpose and Summary
 
@@ -45,7 +62,7 @@ An involved party (a reporter, a person who was targeted or harmed by the incide
 * The outcome is grossly disproportionate to the alleged misconduct (e.g., permanent ban for an single instance of minor misconduct with a low probability of recurrence) or grossly inadequate to protect the community from further harm (e.g., mere warning to an individual who continues to engage in severe misconduct that endangers the safety of others).
 
 
-## Jurisdiction of CNCF Code of Conduct Committee {#jurisdiction-of-cncf-code-of-conduct-committee}
+## Jurisdiction of the CNCF Code of Conduct Committee
 
 The [CNCF CoC Committee](http://www.cncf.io/conduct/committee) has jurisdiction over alleged violations of the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md) that meet any of the following criteria:
 
