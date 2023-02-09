@@ -6,7 +6,7 @@ The CNCF Code of Conduct Working Group (“CoC-WG” or “Working Group”) is 
 -  **[Updated CNCF Code of Conduct]:** This document will contain improvements to the existing CNCF Code of Conduct and will eventually replace the existing CNCF Code of Conduct.
 -  **[CNCF Code of Conduct Committee Description]:** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
 -  **[Incident Resolution Procedures]:** This document will explain how to submit a report, policies regarding information sharing and confidentiality, how conflicts of interest are dealt with, and other procedures related to review, investigation, and resolution of an incident.
--  **Jurisdiction and Escalation Policy:**  This document will explain how to determine whether an incident falls under the jurisdiction of LF Events, the CNCF CoC Committee, or a project-level CoC Committee.
+-  **[Jurisdiction and Escalation Policy:](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)**  This document will explain how to determine whether an incident falls under the jurisdiction of LF Events, the CNCF CoC Committee, or a project-level CoC Committee.
 
 The Working Group will **not** review or resolve Code of Conduct complaints.  Resolution of Code of Conduct incidents will continue to be handled by the [Interim CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) until a more permanent committee structure results from the output of the Working Group.
 
@@ -16,7 +16,7 @@ The Working Group intends to complete its intended deliverables in the following
 1. [Updated CNCF Code of Conduct]
 1. [Incident Resolution Procedures]
 1. [CNCF Code of Conduct Committee Description]
-1. Jurisdiction & Escalation Policy
+1. [Jurisdiction Policy](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)
 
 ## Deliverables Timeline
 
@@ -24,7 +24,7 @@ The Working Group intends to complete its intended deliverables in the following
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------|-----------------------------------------|------------------------------------------|
 | **Incident Resolution Procedures**                                                                                                                     | NA - The Interim Code of Conduct Committee contributed a proposal in October 2022 | January 11, 2023                    | January 12, 2023                                      | January 25, 2023                        | January 26, 2022                         |
 | **Updates to CNCF Code of Conduct**                                                                                                                     | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
-| **Jurisdiction & Escalation Policy**                                                                                                                    | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
+| **Jurisdiction Policy**                                                                                                                    | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
 | **Interim CoC Committee Description & Charter**   <br/> *Composition <br/> *Eligibility criteria  <br/> *Election/appointment procedures  <br/> *Term lengths / limits / election cycle | March 8, 2023                                                                     | March 22, 2023                      | March 23, 2023                                        | April 5, 2023                           | April 6, 2023                            |
 
 ## Contribution Review and Approval Cycle
@@ -91,7 +91,7 @@ You can become a Reviewer if you qualify under the eligibility criteria describe
 
 The review and approval process is structured to ensure that the Working Group is making decisions based on consensus and that there is broad buy-in on any proposal that gets merged.
 
-Initially, at least 3 Reviewers must review and support a PR for it to advance to the Approvers, and all 3 Approvers (1 from the Governing Board, 1 from the Technical Oversight Committee, and 1 Approver who has been elected by the community) must approve in order for the pull request to be merged.
+Initially, at least 3 Reviewers or Aprovers must review and support a PR for it to advance to the Co-Chairs for approval, and all 3 Co-Chairs (1 from the Governing Board, 1 from the Technical Oversight Committee, and 1 Approver who has been elected by the community) must approve in order for the pull request to be merged.
 
 Additionally, updates to the Code of Conduct itself must be approved by the CNCF Technical Oversight Committee (CNCF Charter §13), and creation of the new CoC Committee must be approved by the CNCF Governing Board (CNCF Charter §5(d)(vii)).
 
