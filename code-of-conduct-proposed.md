@@ -29,7 +29,7 @@ an open and welcoming community, we pledge to respect all people who participate
 through reporting issues, posting feature requests, updating documentation,
 submitting pull requests or patches, attending conferences or events, or engaging in other community or project activities.
 
-We are committed to making participation in the CNCF community a harassment-free experience for everyone, regardless of age, body size, caste, disability, ethnicity, level of experience, family ostatus, gender, gender identity and expression, marital status, military or veteran status, nationality, personal appearance, race, religion, sexual orientation, socieconomi status, tribe, or any other dimension of diversity.
+We are committed to making participation in the CNCF community a harassment-free experience for everyone, regardless of age, body size, caste, disability, ethnicity, level of experience, family status, gender, gender identity and expression, marital status, military or veteran status, nationality, personal appearance, race, religion, sexual orientation, socieconomi status, tribe, or any other dimension of diversity.
 
 ## Scope 
 
@@ -86,7 +86,7 @@ For incidents ocurring at CNCF event that is produced by the Linux Foundation, p
 
 ## Enforcement 
 
-Upon review and investigation of a reported incident, the appropriate CoC response team will determine what action is appropriate based on this Code of Conduct and its related documentation. 
+Upon review and investigation of a reported incident, the CoC response team that has jurisdiction will determine what action is appropriate based on this Code of Conduct and its related documentation. 
 
 For information about which Code of Conduct incidents are handled by project leadership, which incidents are handled by the CNCF Code of Conduct Committee, and which incidents are handled by the Linux Foundation (including its events team), see our [Jurisdiction Policy](https://www.cncf.io/conduct/jurisdiction/).
 
