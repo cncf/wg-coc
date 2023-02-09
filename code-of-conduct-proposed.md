@@ -35,7 +35,7 @@ religion, nationality, or other dimension of diversity.
 
 ## Scope 
 
-This code of conduct applies both within project spaces and in other spaces (public or private) when an individual's words or actions directly impact a CNCF project or the CNCF community.
+This code of conduct applies both within project spaces and in other spaces when an individual's words or actions directly pertain to a CNCF project or the CNCF community.
 
 ### CNCF Events
 
