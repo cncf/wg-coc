@@ -29,9 +29,7 @@ an open and welcoming community, we pledge to respect all people who participate
 through reporting issues, posting feature requests, updating documentation,
 submitting pull requests or patches, attending conferences or events, or engaging in other community or project activities.
 
-We are committed to making participation in the CNCF community a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression,
-sexual orientation, disability, personal appearance, body size, race, ethnicity, age,
-religion, nationality, or other dimension of diversity.
+We are committed to making participation in the CNCF community a harassment-free experience for everyone, regardless of age, body size, caste, disability, ethnicity, level of experience, family ostatus, gender, gender identity and expression, marital status, military or veteran status, nationality, personal appearance, race, religion, sexual orientation, socieconomi status, tribe, or any other dimension of diversity.
 
 ## Scope 
 
@@ -63,6 +61,7 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Violence, threatening violence, or encouraging others to engage in violent behavior
 * Stalking or following someone without their consent
+* Unwelcome physical contact
 * Unwelcome sexual or romantic attention
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
@@ -83,7 +82,11 @@ For incidents occurring in the Kubernetes community, contact the [Kubernetes Cod
 
 For other projects, or for incidents that are project-agnostic or impact multiple CNCF projects, please contact the [CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) via conduct@cncf.io.  Alternatively, you can contact any of the individual members of the [CNCF Code of Conduct Committee](https://www.cncf.io/conduct/committee/) to submit your report. For more detailed instructions on how to submit a report, including how to submit a report anonymously, please see our [Incident Resolution Procedures](https://www.cncf.io/conduct/procedures/). You can expect a response within three business days.
 
+For incidents ocurring at CNCF event that is produced by the Linux Foundation, please contact eventconduct@cncf.io.
+
 ## Enforcement 
+
+Upon review and investigation of a reported incident, the appropriate CoC response team will determine what action is appropriate based on this Code of Conduct and its related documentation. 
 
 For information about which Code of Conduct incidents are handled by project leadership, which incidents are handled by the CNCF Code of Conduct Committee, and which incidents are handled by the Linux Foundation (including its events team), see our [Jurisdiction Policy](https://www.cncf.io/conduct/jurisdiction/).
 
