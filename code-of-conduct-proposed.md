@@ -22,7 +22,7 @@ Other languages available:
 - [Ukrainian/Українська](code-of-conduct-languages/uk.md)
 - [Vietnamese/Tiếng Việt](code-of-conduct-languages/vi.md)
 
-### Contributor Code of Conduct
+### Community Code of Conduct
 
 As contributors, maintainers, and participants in the CNCF community, and in the interest of fostering
 an open and welcoming community, we pledge to respect all people who participate or contribute
@@ -31,7 +31,7 @@ submitting pull requests or patches, attending conferences or events, or engagin
 
 We are committed to making participation in the CNCF community a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression,
 sexual orientation, disability, personal appearance, body size, race, ethnicity, age,
-religion, or nationality.
+religion, nationality, or other dimension of diversity.
 
 ## Scope 
 
