@@ -66,7 +66,7 @@ Examples of unacceptable behavior include but are not limited to:
 * Comments or jokes based upon stereotypes, that are exclusionary, or that hold others up for ridicule
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
-* Violent threads
+* Violent threats
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
