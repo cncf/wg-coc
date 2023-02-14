@@ -13,10 +13,10 @@ The Working Group will **not** review or resolve Code of Conduct complaints.  Re
 ## Roadmap of Priorities
 
 The Working Group intends to complete its intended deliverables in the following order:
-1. [Updated CNCF Code of Conduct]
 1. [Incident Resolution Procedures]
-1. [CNCF Code of Conduct Committee Description]
+1. [Updated CNCF Code of Conduct]
 1. [Jurisdiction Policy](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)
+1. [CNCF Code of Conduct Committee Description]
 
 ## Deliverables Timeline
 
@@ -26,6 +26,8 @@ The Working Group intends to complete its intended deliverables in the following
 | **Updates to CNCF Code of Conduct**                                                                                                                     | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
 | **Jurisdiction Policy**                                                                                                                    | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
 | **Interim CoC Committee Description & Charter**   <br/> *Composition <br/> *Eligibility criteria  <br/> *Election/appointment procedures  <br/> *Term lengths / limits / election cycle | March 8, 2023                                                                     | March 22, 2023                      | March 23, 2023                                        | April 5, 2023                           | April 6, 2023                            |
+
+After the Co-Chairs have approved a version of all 4 documents per the above timeline, the Co-Chairs will make at least one more call for comments. Community members will have at least two weeks to submit further edits and comments via this repository, and they will also be invited to provide feedback during the live Working Group meeting that will take place at KubeCon EU 2023. Any comments that were submitted after the original comment deadline in the table above will be considered during this final comment period.
 
 ## Contribution Review and Approval Cycle
 
@@ -91,7 +93,7 @@ You can become a Reviewer if you qualify under the eligibility criteria describe
 
 The review and approval process is structured to ensure that the Working Group is making decisions based on consensus and that there is broad buy-in on any proposal that gets merged.
 
-Initially, at least 3 Reviewers or Aprovers must review and support a PR for it to advance to the Co-Chairs for approval, and all 3 Co-Chairs (1 from the Governing Board, 1 from the Technical Oversight Committee, and 1 Approver who has been elected by the community) must approve in order for the pull request to be merged.
+Initially, at least 3 Reviewers or Approvers must review and support a PR for it to advance to the Co-Chairs for approval, and all 3 Co-Chairs (1 from the Governing Board, 1 from the Technical Oversight Committee, and 1 Approver who has been elected by the community) must approve in order for the pull request to be merged.
 
 Additionally, updates to the Code of Conduct itself must be approved by the CNCF Technical Oversight Committee (CNCF Charter §13), and creation of the new CoC Committee must be approved by the CNCF Governing Board (CNCF Charter §5(d)(vii)).
 
