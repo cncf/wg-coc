@@ -33,7 +33,10 @@ We are committed to making participation in the CNCF community a harassment-free
 
 ## Scope 
 
-This code of conduct applies both within project spaces and in other spaces when an individual's words or actions directly pertain to a CNCF project or the CNCF community.
+This code of conduct applies:
+* within project and community spaces,
+* in other spaces when an individual's words or actions are directed at a CNCF project or the CNCF community, and
+* when an individual participant in the CNCF community is directly harassing another participant.
 
 ### CNCF Events
 
