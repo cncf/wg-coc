@@ -43,7 +43,9 @@ CNCF events that are produced by the Linux Foundation with professional events s
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment include:
+The CNCF Community is open, inclusive and respectful. Every member of our community has the right to have their identity respected.
+
+Examples of behavior that contributes to a positive environment include but are not limited to:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
@@ -52,13 +54,15 @@ Examples of behavior that contributes to a positive environment include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
+* Using welcoming and inclusive language
+  
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behavior include but are not limited to:
 
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
+* Public or private harassment in any form
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
 * Violence, threatening violence, or encouraging others to engage in violent behavior
@@ -75,8 +79,7 @@ The following behaviors are also prohibited:
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. 
 By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect
 of managing a CNCF project. 
-Project maintainers who do not follow the Code of
-Conduct may be temporarily or permanently removed from the project team.
+Project maintainers who do not follow or enforce the Code of Conduct may be temporarily or permanently removed from the project team.
 
 ## Reporting 
 
