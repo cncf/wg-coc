@@ -64,7 +64,7 @@ The Working Group has 3 Co-Chairs and primary Approvers: one from the Governing 
 |                                   | **Primary**             | **Alternate**     |
 |-----------------------------------|-------------------------|-------------------|
 | **Governing Board**               | Arun Gupta              | Alena Prokharchyk |
-| **Technical Oversight Committee** | Davanum "Dims" Srinivas | Matt Farina       |
+| **Technical Oversight Committee** | Emily Fox               | Matt Farina       |
 | **Elected**                       | Christoph Blecker       | Andres Vega       |
 
 
