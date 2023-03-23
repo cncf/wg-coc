@@ -42,20 +42,6 @@ In addition to the alternates described under [Community Representatives](#commu
 
 Any individual who serves as an alternate on an ongoing basis (rather than for a particular incident) shall be added to the list of Current Members of the CNCF Code of Conduct Committee.
 
-## Election cycle
-
-Elected seats: maintainer primary + alternate, two year staggered terms
-
-Voting group: graduated and incubating maintainers
-
-## Voting Process
-Call for nominations: E-28
-End of call for nominations E-21
-Qualification Period: TOC + GB - E-14 days
-Qualified Nominees announced: E-7
-A ballot will be distributed on E-7
-The election will be completed on: Noon PT, E-day and election results are announced
-
 ## Linux Foundation Liaison
 
 When a Code of Conduct incident is subject to both the CNCF Code of Conduct and the Linux Foundation Events Code of Conduct, the Linux Foundation may designate a liaison (the “LF Liaison”) to coordinate efforts between the Linux Foundation and the CoC Committee. The LF Liaison may participate in CoC Committee discussions and meetings regarding the incident on a non-voting basis. 
