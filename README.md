@@ -4,7 +4,7 @@
 
 The CNCF Code of Conduct Working Group (“CoC-WG” or “Working Group”) is a working group whose intended output is an updated CoC incident resolution structure and updated set of policy documents including:
 -  **[Updated CNCF Code of Conduct]:** This document will contain improvements to the existing CNCF Code of Conduct and will eventually replace the existing CNCF Code of Conduct.
--  **[CNCF Code of Conduct Committee Description]:** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
+-  **[CNCF Code of Conduct Committee Charter]:** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
 -  **[Incident Resolution Procedures]:** This document will explain how to submit a report, policies regarding information sharing and confidentiality, how conflicts of interest are dealt with, and other procedures related to review, investigation, and resolution of an incident.
 -  **[Jurisdiction Policy:](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)**  This document will explain how to determine whether an incident falls under the jurisdiction of LF Events, the CNCF CoC Committee, or a project-level CoC Committee.
 
@@ -16,7 +16,7 @@ The Working Group intends to complete its intended deliverables in the following
 1. [Incident Resolution Procedures]
 1. [Updated CNCF Code of Conduct]
 1. [Jurisdiction Policy](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)
-1. [CNCF Code of Conduct Committee Description]
+1. [CNCF Code of Conduct Committee Charter]
 
 ## Deliverables Timeline
 
@@ -25,7 +25,7 @@ The Working Group intends to complete its intended deliverables in the following
 | **Incident Resolution Procedures**                                                                                                                     | NA - The Interim Code of Conduct Committee contributed a proposal in October 2022 | January 11, 2023                    | January 12, 2023                                      | January 25, 2023                        | January 26, 2022                         |
 | **Updates to CNCF Code of Conduct**                                                                                                                     | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
 | **Jurisdiction Policy**                                                                                                                    | February 8, 2023                                                                  | February 22, 2023                   | February 23, 2023                                     | March 8, 2023                           | March 9, 2023                            |
-| **Interim CoC Committee Description & Charter**   <br/> *Composition <br/> *Eligibility criteria  <br/> *Election/appointment procedures  <br/> *Term lengths / limits / election cycle | March 8, 2023                                                                     | March 22, 2023                      | March 23, 2023                                        | April 5, 2023                           | April 6, 2023                            |
+| **CoC Committee Charter**   <br/> *Composition <br/> *Eligibility criteria  <br/> *Election/appointment procedures  <br/> *Term lengths / limits / election cycle | March 8, 2023                                                                     | March 22, 2023                      | March 23, 2023                                        | April 5, 2023                           | April 6, 2023                            |
 
 After the Co-Chairs have approved a version of all 4 documents per the above timeline, the Co-Chairs will make at least one more call for comments. Community members will have at least two weeks to submit further edits and comments via this repository, and they will also be invited to provide feedback during the live Working Group meeting that will take place at KubeCon EU 2023. Any comments that were submitted after the original comment deadline in the table above will be considered during this final comment period.
 
