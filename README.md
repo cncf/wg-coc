@@ -4,7 +4,7 @@
 
 The CNCF Code of Conduct Working Group (“CoC-WG” or “Working Group”) is a working group whose intended output is an updated CoC incident resolution structure and updated set of policy documents including:
 -  **[Updated CNCF Code of Conduct]:** This document will contain improvements to the existing CNCF Code of Conduct and will eventually replace the existing CNCF Code of Conduct.
--  **[CNCF Code of Conduct Committee Charter]:** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
+-  **[CNCF Code of Conduct Committee Charter](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md):** This document will describe the size, composition, eligibility requirements, term lengths, procedures for electing or appointing the committee members, and decision-making processes.
 -  **[Incident Resolution Procedures]:** This document will explain how to submit a report, policies regarding information sharing and confidentiality, how conflicts of interest are dealt with, and other procedures related to review, investigation, and resolution of an incident.
 -  **[Jurisdiction Policy:](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)**  This document will explain how to determine whether an incident falls under the jurisdiction of LF Events, the CNCF CoC Committee, or a project-level CoC Committee.
 
@@ -16,7 +16,7 @@ The Working Group intends to complete its intended deliverables in the following
 1. [Incident Resolution Procedures]
 1. [Updated CNCF Code of Conduct]
 1. [Jurisdiction Policy](https://github.com/cncf/wg-coc/blob/main/coc-committee-jurisdiction-policy-proposed.md)
-1. [CNCF Code of Conduct Committee Charter]
+1. [CNCF Code of Conduct Committee Charter](https://github.com/cncf/wg-coc/blob/main/coc-committee-description-proposed.md)
 
 ## Deliverables Timeline
 
