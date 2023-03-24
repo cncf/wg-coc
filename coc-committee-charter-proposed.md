@@ -12,14 +12,26 @@ The Jurisdiction Policy describes the CoC Committee’s relationship to the Linu
 
 The CoC Committee consists of 3 community members and 2 CNCF staff members, plus alternates.
 
+To be eligible to serve as a primary or alternate member of the CoC Committee, an individual must not have violated the CNCF Code of Conduct within the prior 18 months.
+
 ### Community Representatives
 
 The community representatives will be selected as follows:
 
-* The [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/) (TOC) will appoint 2 primary representatives and 2 alternate representatives, each of whom must be a current or emeritus member of the TOC.
+* The [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/) (TOC) will appoint 1 primary representative and 1 alternate representative, each of whom must be a current or emeritus member of the TOC.
 * [CNCF TAG Contributor Strategy](https://github.com/cncf/tag-contributor-strategy/) will appoint 1 primary representative and 1 alternate representative, each of whom must be a current member of TAG Contributor Strategy.
+* The Maintainers will elect 1 primary Maintainer representative and 1 alternate Maintainer representative, each of whom must be an active [Maintainer](https://github.com/cncf/foundation/blob/main/project-maintainers.csv) of an incubating or graduated CNCF project.
 
-There are no fixed terms or term limits. The TOC and TAG-Security may replace their designated representatives at any time. However, for continuity, it is highly encouraged that each representative serve for a duration of 1 year or longer.
+The Maintainer representatives will be elected by Maintainers in the same manner as the Developer Representatives on the CNCF Governing Board, per the [Maintainer Election Policy](https://github.com/cncf/foundation/blob/main/maintainers-election-policy.md), except that both Kubernetes and non-Kubernetes Maintainers will vote together instead of separately, and the voting timeline shall adhere to the following requirements:
+* The nomination period following a call for nominations shall last at least 7 days
+* Ballots shall be distributed promptly (2 business days or less) afer the nomination period closes
+* After ballots are distributed, Maintainers shall have at least 7 days to submit their votes
+
+In the first election, 2 Maintainers shall be elected. The Maintainer with the highest number of votes shall serve as the primary Maintainer representative, and the runner up shall serve as an alternate. Maintainers shall have 2 year terms that are staggered so that only 1 of the Maintainer representative seats is up for election year. To enable staggered terms, the primary Maintainer representative elected in the first election shall have a term of 1 year. The term for each other Maintainer representative shall be 2 years, and the Maintainer representative shall serve as an alternate the 1st year of their term and as a primary committee member the 2nd year of their term. 
+
+There is no limit on the number of terms an individual can serve on the CoC Committee. There will be no fixed terms for the TOC, CNCF TAG Contributor Strategy, or Governing Board representatives. The TOC and TAG-Security may replace their designated representatives at any time. However, for continuity, it is highly encouraged that each representative serve for a duration of 1 year or longer.
+
+If any primary member of the CoC Committee is inactive on the committee for more than 6 months, it is highly encouraged that they resign, and if they do not resign, the remaining CoC Committee members may vote to remove them. If the individual who resigns is an elected Maintainer representative, the remaining CoC Committee members will decide whether to hold a special mid-cycle election to fill the vacancy or invite an alternate to fill the vacancy.
 
 ### CNCF Staff Representatives
 
@@ -29,14 +41,15 @@ CNCF may appoint up to 2 alternate staff members to serve on the committee on an
 
 ## Alternates  
 
-Alternates do not participate in resolution of every incident; alternates participate only on an as needed basis to when a primary committee member is unavailable or has a conflict of interest for the purpose of ensuring that multiple Community Members participate in resolution of every incident.
+Alternates do not participate in resolution of every incident; alternates participate only on an as needed basis to when a primary committee member is unavailable or has a conflict of interest, for the purpose of ensuring that multiple Community Members participate in resolution of every incident.
 
-In addition to the alternates described under [Community Representatives](#community-representatives), the primary members of the CoC Committee may invite any of the following to serve as an alternate, either on an ongoing basis or for a particular incident:
+The CNCF Governing Board shall appoint 1 or 2 representatives to serve as alternates, each of whom must be a current member of the Governing Board
+
+In addition to the Governing Board alternates and the alternates described under [Community Representatives](#community-representatives), the primary members of the CoC Committee may invite any of the following to serve as an alternate, either on an ongoing basis or for a particular incident:
 
 * Any current Graduated or Incubating [Maintainer](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
 * Any current member of the CNCF End User Technical Advisory Board 
 * Any current member of a CNCF End User Group
-* Any current member of the CNCF Governing Board
 * Any current CNCF Ambassador
 * The Chairperson or Vice Chairperson of the CNCF Marketing Committee
 
