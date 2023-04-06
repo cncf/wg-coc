@@ -29,7 +29,7 @@ The Maintainer representatives will be elected by Maintainers in the same manner
 
 In the first election, 2 Maintainers shall be elected. The Maintainer with the highest number of votes shall serve as the primary Maintainer representative, and the runner up shall serve as an alternate. Maintainers shall have 2 year terms that are staggered so that only 1 of the Maintainer representative seats is up for election year. To enable staggered terms, the primary Maintainer representative elected in the first election shall have a term of 1 year. The term for each other Maintainer representative shall be 2 years, and the Maintainer representative shall serve as an alternate the 1st year of their term and as a primary committee member the 2nd year of their term. 
 
-There is no limit on the number of terms an individual can serve on the CoC Committee. There will be no fixed terms for the TOC, CNCF TAG Contributor Strategy, or Governing Board representatives. The TOC and TAG-Security may replace their designated representatives at any time. However, for continuity, it is highly encouraged that each representative serve for a duration of 1 year or longer.
+There is no limit on the number of terms an individual can serve on the CoC Committee. There will be no fixed terms for the TOC, CNCF TAG Contributor Strategy, or Governing Board representatives. The TOC and TAG-Contributor Strategy may replace their designated representatives at any time. However, for continuity, it is highly encouraged that each representative serve for a duration of 1 year or longer.
 
 If any primary member of the CoC Committee is inactive on the committee for more than 6 months, it is highly encouraged that they resign, and if they do not resign, the remaining CoC Committee members may vote to remove them. If the individual who resigns is an elected Maintainer representative, the remaining CoC Committee members will decide whether to hold a special mid-cycle election to fill the vacancy or invite an alternate to fill the vacancy.
 
@@ -43,8 +43,6 @@ CNCF may appoint up to 2 alternate staff members to serve on the committee on an
 
 Alternates do not participate in resolution of every incident; alternates participate only on an as needed basis to when a primary committee member is unavailable or has a conflict of interest, for the purpose of ensuring that multiple Community Members participate in resolution of every incident.
 
-The CNCF Governing Board shall appoint 1 or 2 representatives to serve as alternates, each of whom must be a current member of the Governing Board
-
 In addition to the Governing Board alternates and the alternates described under [Community Representatives](#community-representatives), the primary members of the CoC Committee may invite any of the following to serve as an alternate, either on an ongoing basis or for a particular incident:
 
 * Any current Graduated or Incubating [Maintainer](https://github.com/cncf/foundation/blob/main/project-maintainers.csv)
@@ -57,7 +55,11 @@ Any individual who serves as an alternate on an ongoing basis (rather than for a
 
 ## Linux Foundation Liaison
 
-When a Code of Conduct incident is subject to both the CNCF Code of Conduct and the Linux Foundation Events Code of Conduct, the Linux Foundation may designate a liaison (the “LF Liaison”) to coordinate efforts between the Linux Foundation and the CoC Committee. The LF Liaison may participate in CoC Committee discussions and meetings regarding the incident on a non-voting basis. 
+When a Code of Conduct incident is subject to both the CNCF Code of Conduct and the Linux Foundation Events Code of Conduct, the Linux Foundation may designate a liaison (the “LF Liaison”) to coordinate efforts between the Linux Foundation and the CoC Committee. The LF Liaison may participate in CoC Committee discussions and meetings regarding the incident on a non-voting basis. The LF Liaison shall comply with the [Confidentiality Policy](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md#confidentiality-policy).
+
+## Governing Board Liaison
+
+The Governing Board shall designate a representative to serve as a liaison (the "GB Laison") to coordinate efforts between the Governing Board and CoC Committee when the CoC Committee deems such coordination to be in the best interests of the community. The GB Liaison shall not participate in investigation or decision-making regarding pending incidents. Types of information that the CoC Committee may provide to the GB Liaison includes status of an investigation, number of reports received, general nature of a complaint, whether the CoC Committee itself is performing an investigation or whether an external consultant is performing the investigation, any systemic issues related to the incident that the CoC Committee would like to make the Governing Board aware of, and other information that does not identify the reporters or other confidential information regarding specific incidents. Information that identifies a reporter or victim will not be provided to a GB Liaison unless the reporter or victim has consented to disloure of their identity. Additionally, the GB Liaison shall comply with the [Confidentiality Policy](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md#confidentiality-policy).
 
 ## How Decisions Are Made
 
