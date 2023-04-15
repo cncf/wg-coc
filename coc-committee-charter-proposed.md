@@ -22,7 +22,7 @@ Additionally, elected community member representatives are subject to the follow
 * Must be a generally responsible human.
 * Demonstration of integrity, professionalism, and positive influence within the CNCF community or other communities is highly valued.
 
-## Community Representatives
+## Elected Community Member Representatives
 
 ### Election of Community Member Representatives
 
@@ -36,7 +36,7 @@ The TOC will announce a request for nominations some time in [month to be determ
 
 The TOC will accept nominations for at least 1 week and may choose to accept nominations for a longer period. After the announced nomination period closes, the TOC will hold a private ballot election using time-limited Condorcet ranking and use the Schulze method to break ties. The TOC will publicly announce the winners of the election.
 
-## Term Lengths and Limits
+### Term Lengths and Limits
 
 Elected CoC Committee Members shall each serve for a 2 year term. There is no limit on the number of terms (consecutive or not) that an individual can serve on the CoC Committee.
 
