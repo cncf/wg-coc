@@ -42,7 +42,7 @@ Elected CoC Committee Members shall each serve for a 2 year term. There is no li
 
 ### Resignation, Removals, and Vacancies
 
-If any member of the CoC Committee is inactive on the committee for more than 6 months, it is highly encouraged that they resign, and if they do not resign, the remaining CoC Committee members may vote to remove them. If the individual who resigns is an elected Maintainer representative, the remaining CoC Committee members will decide whether to hold a special mid-cycle election to fill the vacancy or invite an alternate to fill the vacancy.
+If any member of the CoC Committee is inactive on the committee for more than 6 months, it is highly encouraged that they resign, and if they do not resign, the remaining CoC Committee members may vote to remove them. 
 
 If a primary elected committee member resigns, is removed, or becomes disqualified prior to the end of their term, the alternate who received the highest number of votes in the election will replace them as a primary committee member for the remainder of the term.
 
