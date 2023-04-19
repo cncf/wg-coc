@@ -24,11 +24,15 @@ Additionally, elected community member representatives are subject to the follow
 
 ## Elected Community Member Representatives
 
+### Limit on Number of Representatives from a Single Company
+
+To reduce the likelihood of multiple conflicts of interests arising for a particular incident, no more than 2 of the 6 (primary + alternate) elected community representatives may be from a single company. If more the 2 employees from the same company are among the 6 candidates with the highest number of votes, only the 2 employees from that company with the highest number of votes shall be elected.
+
 ### Election of Community Member Representatives
 
 The community representatives will be elected by a vote of the [Technical Oversight Committee](https://www.cncf.io/people/technical-oversight-committee/) (TOC).
 
-The 3 candidates receiving the highest number of votes will serve as primary representatives of the CoC Committee. The 3 candidates receiving the next highest number of votes (the 3 runners up) shall serve as alternatives.
+The 3 candidates receiving the highest number of votes will serve as primary representatives of the CoC Committee. The 3 candidates receiving the next highest number of votes shall serve as alternatives.
 
 ### Nomination of Community Member Representatives
 
