@@ -57,7 +57,7 @@ An involved party (a reporter, a person who was targeted or harmed by the incide
 
 * The Project-level CoC responders lacked jurisdiction and were required to transfer the incident to the CNCF CoC Committee per “Transfer by Project CoC Responders” above; 
 * Individuals who have hard conflicts of interest (see the [Conflict of Interest Policy](https://www.cncf.io/conduct/procedures/#conflicts-of-interest)) decided the outcome of the incident;
-* The Project-level responders did not conduct a fair evaluation of the incident (e.g., they failed to review relevant evidence that was available to them);
+* The Project-level responders did not conduct a fair evaluation of the incident (e.g., they failed to consider relevant evidence that was available to them, or the accused was not provided with an opportunity to be heard or present evidence and providing such an opportunity was reasonably likely to result in a different outcome);
 * The Project-level responders violated applicable policies or procedures of the project or of CNCF, or violated applicable laws, when responding to or resolving the incident;
 * The outcome is grossly disproportionate to the alleged misconduct (e.g., permanent ban for an single instance of minor misconduct with a low probability of recurrence) or grossly inadequate to protect the community from further harm (e.g., mere warning to an individual who continues to engage in severe misconduct that endangers the safety of others).
 
