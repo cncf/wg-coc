@@ -70,18 +70,18 @@ When a Code of Conduct incident is subject to both the CNCF Code of Conduct and 
 
 ## CNCF Governing Board Liaison
 
-The CNCF Governing Board shall designate a representative to serve as a liaison (the "GB Liaison") to coordinate efforts between the Governing Board and CoC Committee when the CoC Committee deems such coordination to be in the best interests of the community. The GB Liaison shall not participate in the investigation (except as a witness if appropriate) or decision-making regarding how an incident should be resolved. 
+The CNCF Governing Board shall designate a representative to serve as a liaison (the "GB Liaison") to coordinate efforts between the Governing Board and CoC Committee when the CoC Committee deems such coordination to be in the best interests of the community. The GB Liaison shall not participate in the investigation (except as a witness if appropriate) or decision-making regarding how an incident should be resolved. The GB Liaison is required to comply with the [Confidentiality Policy](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md#confidentiality-policy). 
 
-The CoC Committee may provide to the GB Liaison, and the GB Liaison may freely share with the Governing Board, non-confidential information and information that cannot be used to identify reporters or any victims or targets of harassment, including:
+## Information Sharing with TOC and Governing Board
+
+The CoC Committee may provide to the TOC or the GB Liaison, and the GB Liaison may freely share with the Governing Board, non-confidential information and information that cannot be used to identify reporters or any victims or targets of harassment, including:
 * Statistical information, such as number of incidents reported
 * Procedural information, such as how the committee functions, whether a committee member or an external consultant is performing an investigation, and whether any committee members recused themselves due to a conflict of interest
 * Systemic issues such as policy, governance, or cultural concerns that came to light as a result of the incident
 
-Information that can be used to identify a reporter, victim, or target of harassment will not be provided to a GB Liaison unless that individual has consented to disclosure of their identity or their identity is already publicly known.
+Information that can be used to identify a reporter, victim, or target of harassment will not be provided to the TOC or a GB Liaison unless such reporter, victim, or targeted individual has consented to disclosure of their identity or their identity is already publicly known.
 
 The GB Liaison shall not share confidential information concerning a specific incident with the Governing Board unless the CoC Committee has requested or authorized such sharing for a purpose specified by the CoC Committee. In such case, the GB Liaison shall clearly designate such information as confidential when sharing it with the Governing Board. 
-
-The GB Liaison is required to comply with the [Confidentiality Policy](https://github.com/cncf/wg-coc/blob/main/coc-incident-resolution-procedures-proposed.md#confidentiality-policy). 
 
 ## How Decisions Are Made
 
