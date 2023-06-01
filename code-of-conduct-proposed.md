@@ -95,6 +95,10 @@ Upon review and investigation of a reported incident, the CoC response team that
 
 For information about which Code of Conduct incidents are handled by project leadership, which incidents are handled by the CNCF Code of Conduct Committee, and which incidents are handled by the Linux Foundation (including its events team), see our [Jurisdiction Policy](https://www.cncf.io/conduct/jurisdiction/).
 
+## Amendments
+
+Consistent with the CNCF Charter, any substantive changes to this Code of Conduct must be approved by the Technical Oversight Committee.
+
 ## Acknowledgements
 
 This Code of Conduct is adapted from the Contributor Covenant
