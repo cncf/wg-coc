@@ -147,6 +147,11 @@ LF Legal counsel can be contacted at [__________].
 To ensure that there is a central repository of data regarding Code of Conduct incidents across all CNCF projects that can be checked to determine whether an accused person is a repeat offender, Project-level incident responders shall promptly notify the CNCF Code of Conduct Committee of any incident that is reported to them even if it is not transferred to the CNCF Code of Conduct Committee.  The Project-level incident responders shall provide a brief summary of the nature of the alleged violation and the name of the accused person (but do not have to provide a copy of the full incident report or the identities of the reporters, witnesses, or persons allegedly harmed or targeted), and the CNCF Code of Conduct Committee shall in response notify the project-level Code of Conduct responders if the accused individual has a record of prior violations.  When the incident is resolved, the Project-level incident responders shall notify the CNCF Code of Conduct Committee of whether a violation was found and if so, what remediation steps were taken.  All information in the central repository shall remain confidential under the Confidentiality Policy and only be shared with other CoC responders in accordance with the [Information Sharing](https://www.cncf.io/conduct/procedures/#information-sharing) policy.
 
 
+## Amendments
+
+Any amendments to this Jurisdiction Policy must be approved by CNCF and the Governing Board. 
+
+
 ## Licensing
 
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
