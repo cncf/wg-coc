@@ -34,6 +34,7 @@ These Procedures address the following topics related to resolution of potential
   - [Procedures to disclose and confirm conflicts](#procedures-to-disclose-and-confirm-conflicts)
   - [Procedures when a hard conflict of interest exists](#procedures-when-a-hard-conflict-of-interest-exists)
   - [Procedures when a soft conflict of interest exists](#procedures-when-a-soft-conflict-of-interest-exists)
+- [Amendments](#amendments)
 - [Attribution and Licensing](#attribution-and-licensing)
 
 
@@ -240,6 +241,10 @@ A CoC Committee member with a hard conflict of interest will not be allowed to a
 ### Procedures when a soft conflict of interest exists
 
 A CoC Committee member with a soft conflict of interest will not have the right to vote, but may be allowed to participate in discussion regarding the incident. The remaining CoC Committee members will decide what information to provide such conflicted member and the extent to which such conflicted member may be present at meetings, participate in discussions, and otherwise assist in resolution of the incident. Any such decisions regarding participation or recusal of a CoC Committee member with a soft conflict of interest will be recorded in the committee’s meeting minutes or other records.
+
+## Amendments
+
+Any amendments to these Incident Resolution Procedures must be approved by the Code of Conduct Committee.
 
 ## Attribution and Licensing
 
