@@ -103,6 +103,10 @@ Please see our [Jurisdiction Policy](https://www.cncf.io/conduct/jurisdiction/) 
 -   Confidentiality Policy
 -   No retaliation
 -   Conflicts of interest
+
+## Amendments
+
+Any amendments to this charter must be approved by the CNCF Governing Board consistent with the CNCF Charter.
     
 ## Licensing
 
