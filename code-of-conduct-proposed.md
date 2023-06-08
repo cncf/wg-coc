@@ -66,7 +66,8 @@ Examples of unacceptable behavior include but are not limited to:
   address, without their explicit permission
 * Violence, threatening violence, or encouraging others to engage in violent behavior
 * Stalking or following someone without their consent
-* Unwelcome physical contact, unwelcome sexual or romantic attention
+* Unwelcome physical contact
+* Unwelcome sexual or romantic attention or advances
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
   
