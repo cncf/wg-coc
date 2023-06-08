@@ -35,7 +35,7 @@ We are committed to making participation in the CNCF community a harassment-free
 
 This code of conduct applies:
 * within project and community spaces,
-* in other spaces when an individual CNCF community participant's words or actions are directed at or are about a CNCF project, the CNCF community, or another CNCF community participants.
+* in other spaces when an individual CNCF community participant's words or actions are directed at or are about a CNCF project, the CNCF community, or another CNCF community participant.
 
 ### CNCF Events
 
@@ -59,8 +59,7 @@ Examples of behavior that contributes to a positive environment include but are 
 
 Examples of unacceptable behavior include but are not limited to:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
+* The use of sexualized language or imagery
 * Trolling, insulting or derogatory comments, and personal or political attacks
 * Public or private harassment in any form
 * Publishing others' private information, such as a physical or email
@@ -68,7 +67,7 @@ Examples of unacceptable behavior include but are not limited to:
 * Violence, threatening violence, or encouraging others to engage in violent behavior
 * Stalking or following someone without their consent
 * Unwelcome physical contact
-* Unwelcome sexual or romantic attention
+* Unwelcome sexual or romantic attention or advances
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
   
