@@ -63,7 +63,7 @@ When reporting a potential Code of Conduct violation, please include the followi
 
 -   Names of the people involved (or if names are unknown, use descriptions and any identifying information such as appearance, role, username, or handle), including the person whom you believe violated the Code of Conduct and any witnesses.
     
--   Description of the incident, including the events that occured, the date and time, and location or community space where the incident occured.
+-   Description of the incident, including the events that occurred, the date and time, and location or community space where the incident occurred.
     
 -   The portion(s) of the CoC you believe to be violated.
     
